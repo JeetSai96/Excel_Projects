@@ -113,5 +113,5 @@ Loan-Default-Analysis/
 
 ## Conclusion
 
-This project demonstrates the use of Excel for data preparation, categorical analysis, KPI reporting, and interactive dashboard development. It provides a practical example of transforming raw loan data into a structured analytical tool for exploring loan default patterns.
+This project demonstrates the use of Excel for data preparation, categorical analysis, KPI reporting and interactive dashboard development. It provides a practical example of transforming raw loan data into a structured analytical tool for exploring loan default patterns.
 
